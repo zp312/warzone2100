@@ -26,7 +26,7 @@ msgstr ""
 
 #: data/base/messages/messages.rmsg:2
 msgid "Structure Research Completed"
-msgstr "建筑科技研发完成"
+msgstr "建筑科  技研发完成"
 
 #: data/base/messages/messages.rmsg:8
 msgid "Power Research Completed"
